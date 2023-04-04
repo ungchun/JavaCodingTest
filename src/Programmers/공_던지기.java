@@ -1,6 +1,6 @@
 package Programmers;
 
-class Solution {
+class Solution_공_던지기 {
     public static int solution(int[] numbers, int k) {
         int answer = 0;
 
