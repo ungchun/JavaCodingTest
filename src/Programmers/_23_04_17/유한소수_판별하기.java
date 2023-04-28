@@ -1,4 +1,4 @@
-package Programmers;
+package Programmers._23_04_17;
 class Solution_유한소수_판별하기 {
     public int solution(int a, int b) {
         int min = (a < b) ? a : b;

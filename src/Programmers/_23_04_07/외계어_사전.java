@@ -1,4 +1,4 @@
-package Programmers;
+package Programmers._23_04_07;
 
 class Solution_외계어_사전 {
     public int solution(String[] spell, String[] dic) {

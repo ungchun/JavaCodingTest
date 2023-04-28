@@ -1,4 +1,4 @@
-package Programmers;
+package Programmers._23_04_16;
 class Solution_치킨_쿠폰 {
     final int BONUS_NUM = 10;
     public int solution(int chicken) {

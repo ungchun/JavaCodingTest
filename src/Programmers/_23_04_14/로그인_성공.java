@@ -1,4 +1,4 @@
-package Programmers;
+package Programmers._23_04_14;
 
 class Solution_로그인_성공 {
     public String solution(String[] id_pw, String[][] db) {

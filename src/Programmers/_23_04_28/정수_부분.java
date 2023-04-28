@@ -1,4 +1,4 @@
-package Programmers;
+package Programmers._23_04_28;
 
 class Solution_정수_부분 {
     public int solution(double flo) {

@@ -1,4 +1,4 @@
-package Programmers;
+package Programmers._23_04_13;
 
 class Solution_직사각형_넓이_구하기 {
     public int solution(int[][] dots) {

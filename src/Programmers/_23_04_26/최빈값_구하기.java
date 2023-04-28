@@ -1,4 +1,4 @@
-package Programmers;
+package Programmers._23_04_26;
 
 class Solution_최빈값_구하기 {
     public int solution(int[] array) {

@@ -1,4 +1,4 @@
-package Programmers;
+package Programmers._23_04_06;
 
 class Solution_문자열_계산하기 {
     public int solution(String my_string) {

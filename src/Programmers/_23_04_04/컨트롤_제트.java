@@ -1,4 +1,4 @@
-package Programmers;
+package Programmers._23_04_04;
 class Solution_컨트롤_제트 {
     public int solution(String s) {
         int answer = 0;

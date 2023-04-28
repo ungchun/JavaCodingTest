@@ -1,4 +1,4 @@
-package Programmers;
+package Programmers._23_04_05;
 
 class Solution_잘라서_배열로_저장하기 {
     public String[] solution(String my_str, int n) {

@@ -1,4 +1,4 @@
-package Programmers;
+package Programmers._23_04_05;
 
 class Solution_영어가_싫어요 {
     public long solution(String numbers) {

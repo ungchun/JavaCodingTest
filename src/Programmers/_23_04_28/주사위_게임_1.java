@@ -1,4 +1,4 @@
-package Programmers;
+package Programmers._23_04_28;
 
 class Solution_주사위_게임_1 {
     public int solution(int a, int b) {

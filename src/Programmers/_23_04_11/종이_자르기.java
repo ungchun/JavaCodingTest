@@ -1,4 +1,4 @@
-package Programmers;
+package Programmers._23_04_11;
 
 class Solution_종이_자르기 {
     public int solution(int M, int N) {

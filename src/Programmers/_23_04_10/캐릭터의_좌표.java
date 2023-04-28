@@ -1,4 +1,4 @@
-package Programmers;
+package Programmers._23_04_10;
 
 class Solution_캐릭터의_좌표 {
     public int[] solution(String[] keyinput, int[] board) {
