@@ -1,9 +1,8 @@
 package BOJ._23_05_31;
 
 import java.util.*;
-import java.io.*;
 
-public class 숫자_정사각형 {
+public class 숫자_정사각형_1051 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int N = scan.nextInt();

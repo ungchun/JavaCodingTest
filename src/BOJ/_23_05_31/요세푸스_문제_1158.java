@@ -1,7 +1,7 @@
 package BOJ._23_05_31;
 
 import java.util.*;
-public class 요세푸스_문제 {
+public class 요세푸스_문제_1158 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int N = scan.nextInt();
