@@ -1,9 +1,8 @@
 package BOJ._23_06_10;
 
 import java.util.*;
-import java.io.*;
 
-public class 부녀회장이_될테야 {
+public class 부녀회장이_될테야_2775 {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
